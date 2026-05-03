@@ -1,0 +1,14 @@
+E:\Data kk\software\visual studio\projek\pbo-module-task\pbo-module-task\bin\Debug\net10.0\pbo-module-task.exe
+E:\Data kk\software\visual studio\projek\pbo-module-task\pbo-module-task\bin\Debug\net10.0\pbo-module-task.deps.json
+E:\Data kk\software\visual studio\projek\pbo-module-task\pbo-module-task\bin\Debug\net10.0\pbo-module-task.runtimeconfig.json
+E:\Data kk\software\visual studio\projek\pbo-module-task\pbo-module-task\bin\Debug\net10.0\pbo-module-task.dll
+E:\Data kk\software\visual studio\projek\pbo-module-task\pbo-module-task\bin\Debug\net10.0\pbo-module-task.pdb
+E:\Data kk\software\visual studio\projek\pbo-module-task\pbo-module-task\obj\Debug\net10.0\pbo-module-task.GeneratedMSBuildEditorConfig.editorconfig
+E:\Data kk\software\visual studio\projek\pbo-module-task\pbo-module-task\obj\Debug\net10.0\pbo-module-task.AssemblyInfoInputs.cache
+E:\Data kk\software\visual studio\projek\pbo-module-task\pbo-module-task\obj\Debug\net10.0\pbo-module-task.AssemblyInfo.cs
+E:\Data kk\software\visual studio\projek\pbo-module-task\pbo-module-task\obj\Debug\net10.0\pbo-module-task.csproj.CoreCompileInputs.cache
+E:\Data kk\software\visual studio\projek\pbo-module-task\pbo-module-task\obj\Debug\net10.0\pbo-module-task.dll
+E:\Data kk\software\visual studio\projek\pbo-module-task\pbo-module-task\obj\Debug\net10.0\refint\pbo-module-task.dll
+E:\Data kk\software\visual studio\projek\pbo-module-task\pbo-module-task\obj\Debug\net10.0\pbo-module-task.pdb
+E:\Data kk\software\visual studio\projek\pbo-module-task\pbo-module-task\obj\Debug\net10.0\pbo-module-task.genruntimeconfig.cache
+E:\Data kk\software\visual studio\projek\pbo-module-task\pbo-module-task\obj\Debug\net10.0\ref\pbo-module-task.dll
